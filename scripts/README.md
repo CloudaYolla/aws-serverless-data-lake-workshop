@@ -3,4 +3,4 @@ We prepared a CloudFormation template that creates the IAM roles and policies yo
 
 We also prepared a Jupyter Notebook to demonstrate iterative development for data transformations. 
 
-The Kinesis Data Generator tool can be downloaded from here: https://github.com/awslabs/amazon-kinesis-data-generator
+The installation instructions for the Kinesis Data Generator tool can be found here: https://awslabs.github.io/amazon-kinesis-data-generator/web/help.html
