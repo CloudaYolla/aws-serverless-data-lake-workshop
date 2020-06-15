@@ -563,7 +563,7 @@
                                         {
                                             "Ref": "AWS::AccountId"
                                         },
-                                        ":devEndpoint/gj-tame-bda-kdg-raw2parquet-devEndpoint*"
+                                        ":devEndpoint/*"
                                     ]
                                 ]
                             }
