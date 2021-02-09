@@ -3,7 +3,7 @@
     "Description": "PA17 2019-05-09 - @akirmak - RevHist: PA17: Added missing permission to SageMakerNotebook role reported by @hohenber. PA16-2018-12-13: sagemaker notebook role type fixed.  PA15:-(parameters added for AcctId and S3 bucket's name initials)",
     "Parameters": {
         "yourInitials": {
-            "Description": "Your Initials to be used in the s3-bucket created. All in small letters pls. e.g. It shall be 'fs' for Frank Sinatra",
+            "Description": "Your (lowercase) initials you're going to use when creating the S3 bucket. All in small letters, e.g. 'fs' for Frank Sinatra",
             "Type": "String",
             "MinLength": "2",
             "MaxLength": "5"
